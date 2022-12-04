@@ -1,3 +1,10 @@
+% Please cite the article
+% Lazaropoulos, A. G. (2022). SLAs, KPIs and BPMN for the Digital 
+% Transformation of the Enterprises’ IT Business Processes. International 
+% Journal of Synergy in Engineering and Technology, vol. 3, no. 2, 
+% pp. 103-142, Dec. 2022. [Online]. 
+% Available: https://tatiuc.edu.my/ijset/index.php/ijset/article/view/135
+
 clear all;
 clc;
 
